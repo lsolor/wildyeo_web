@@ -1,0 +1,28 @@
+body {
+    background-color: powderblue;
+  }
+h1 {
+    color: black;
+    text-align: center;
+  }
+
+h2 {
+  
+}  
+
+ul.social-media {
+        list-style-type: none;
+       
+        margin: 0;
+        padding: 0;
+  }
+li.social-media{
+  display: inline-block;
+}
+
+ul{
+  list-style-type: none;
+  margin: 0;
+  padding-top: 2%;
+
+}
